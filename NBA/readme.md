@@ -1,1 +1,1 @@
-My first attempt at a neural network to predict scores of NBA games (or the score of one team, rather) using the data from a team's 6 previous games as input
+My first attempt at a neural network to predict scores of NBA games (or the score of one team, rather) using the data from a team's 6 previous games as input. This model is absurdly overfit, likely due to the lack of observances (30, for each team in the league). I would like to revisit this, and edit the model to take statistics from the opposing team to better predict scores
